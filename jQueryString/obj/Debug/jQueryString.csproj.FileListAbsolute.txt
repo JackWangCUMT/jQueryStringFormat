@@ -1,0 +1,5 @@
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\jQueryString\obj\Debug\jQueryString.csprojResolveAssemblyReference.cache
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\jQueryString\bin\Debug\jQueryString.dll
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\jQueryString\bin\Debug\jQueryString.pdb
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\jQueryString\obj\Debug\jQueryString.dll
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\jQueryString\obj\Debug\jQueryString.pdb

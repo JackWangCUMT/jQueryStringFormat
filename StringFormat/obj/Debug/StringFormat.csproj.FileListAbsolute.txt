@@ -1,0 +1,11 @@
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\bin\Debug\StringFormat.exe.config
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.csprojResolveAssemblyReference.cache
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.FrmTest.resources
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.Properties.Resources.resources
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.csproj.GenerateResource.Cache
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\bin\Debug\StringFormat.exe
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\bin\Debug\StringFormat.pdb
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\bin\Debug\jQueryString.dll
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\bin\Debug\jQueryString.pdb
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.exe
+c:\users\wangming\documents\visual studio 2012\Projects\StringFormat\StringFormat\obj\Debug\StringFormat.pdb

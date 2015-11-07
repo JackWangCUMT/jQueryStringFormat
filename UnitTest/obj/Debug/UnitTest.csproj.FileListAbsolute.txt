@@ -1,0 +1,7 @@
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\bin\Debug\jQueryString.dll
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\bin\Debug\jQueryString.pdb
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\wangming\Documents\Visual Studio 2012\Projects\StringFormat\UnitTest\obj\Debug\UnitTest.pdb
