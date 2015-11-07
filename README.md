@@ -1,5 +1,5 @@
 ## jQueryStringFormat
-C#  String Interpolation Using jQuery $
+jQueryStringFormat is string format tool to format string using template that variable start with jquery $
 ## Usage
 ```C#
 string Name = "JackWang";
